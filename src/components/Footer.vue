@@ -28,7 +28,24 @@
             <p class="text-slate-400 py-2">Terms of use</p>
         </div>
         <div>
-            
+            <div class="flex justify-center items-center gap-x-2.5 py-4">
+                <button class="w-14">
+                    <img src="https://img.icons8.com/clouds/1x/facebook-new.png" alt="" />
+                </button>
+                <button class="w-14">
+                    <img src="https://img.icons8.com/clouds/1x/twitter-circled.png" alt="" />
+                </button>
+                <button class="w-14">
+                    <img src="https://img.icons8.com/clouds/1x/instagram-new.png" alt="" />
+                </button>
+                <button class="w-14">
+                    <img src="https://img.icons8.com/clouds/1x/linkedin.png" alt="" />
+                </button>
+            </div>
+            <div class="flex items-center gap-x-4 py-4">
+                <img class="w-10" src="https://img.icons8.com/arcade/256/globe.png" alt="" />
+                <p class="font-roboto text-lg font-bold text-slate-300">English</p>
+            </div>
         </div>
     </div>
 </template>
