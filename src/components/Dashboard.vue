@@ -35,6 +35,63 @@
                 <p class="pt-0 px-10 text-3xl text-slate-400 italic pt-10 border-l-4 border-black">It leaves a taste that's bittersweet That's called the <br/> blues</p>
             </div>
         </div>
+        <!-- <div class="bg-[#303030] h-36">
+            <div class="bg-[] rounded-xl w-12 h-12">
+                Hewllo
+            </div>
+        </div> -->
+        <div class="pb-32 flex gap-x-4 justify-center items-end bg-[#303030]">
+            <div class="flex flex-col items-center">
+                <div class="px-60 flex items-center">
+                    <p class="text-white text-5xl leading-[60px] pl-44 font-bold font-roboto z-50 relative">Our <br/> Office</p>
+                    <div class="absolute px-[135px]">
+                        <div class="bg-[#2196f3] rotate-45 w-52 h-52 rounded-2xl"></div>
+                    </div>
+                </div>
+                <div class="ml-80 bg-[#1e1e1e] mt-36 text-white font-roboto p-10 rounded-xl w-[500px]">
+                    <p class="text-xl pb-4">Head Quarter</p>
+                    <div class="flex items-center gap-x-10 pb-6">
+                        <div class="flex items-center gap-x-4">
+                            <img class="w-6" src="https://img.icons8.com/ultraviolet/256/phone.png" alt="" />
+                            <p>+1 234 567 8901</p>
+                        </div>
+                        <div class="flex items-center gap-x-4">
+                            <img class="w-6" src="https://img.icons8.com/fluency/256/edit-message.png" alt="" />
+                            <p>hello@luxi.com</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-x-4">
+                        <img class="w-6" src="https://img.icons8.com/color-glass/256/user-location.png" alt="" />
+                        <p>Lorem ipsum street no.14 Block A</p>
+                    </div>
+                </div>
+                <div class="ml-80 bg-[#1e1e1e] mt-10 text-white font-roboto p-10 rounded-xl w-[500px]">
+                    <p class="text-xl pb-4">Branch Office</p>
+                    <div class="flex items-center gap-x-10 pb-6">
+                        <div class="flex items-center gap-x-4">
+                            <img class="w-6" src="https://img.icons8.com/ultraviolet/256/phone.png" alt="" />
+                            <p>+1 234 567 8901</p>
+                        </div>
+                        <div class="flex items-center gap-x-4">
+                            <img class="w-6" src="https://img.icons8.com/fluency/256/edit-message.png" alt="" />
+                            <p>hello@luxi.com</p>
+                        </div>
+                    </div>
+                    <div class="flex items-center gap-x-4">
+                        <img class="w-6" src="https://img.icons8.com/color-glass/256/user-location.png" alt="" />
+                        <p>Lorem ipsum street no.14 Block A</p>
+                    </div>
+                </div>
+            </div>
+            <div class="pr-60">
+                <figure>
+                    <iframe 
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106170.04919649201!2d-118.35361081048336!3d33.73962453169056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd35ae16ed8aa5%3A0x4147d57f086875f!2sSan%20Pedro%2C%20Los%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2s!4v1674055693615!5m2!1sen!2s"
+                        width="800" height="700" style="border:0; border-radius: 0.5rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                    </iframe>
+                </figure>
+            </div>
+        </div>
     </div>
   </template>
   
