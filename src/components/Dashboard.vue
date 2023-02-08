@@ -48,7 +48,7 @@
                         <div class="bg-[#2196f3] rotate-45 w-52 h-52 rounded-2xl"></div>
                     </div>
                 </div>
-                <div class="ml-80 bg-[#1e1e1e] mt-36 text-white font-roboto p-10 rounded-xl w-[500px]">
+                <div class="ml-80 bg-[#1e1e1e] mt-36 text-white font-roboto p-10 rounded-xl w-[450px]">
                     <p class="text-xl pb-4">Head Quarter</p>
                     <div class="flex items-center gap-x-10 pb-6">
                         <div class="flex items-center gap-x-4">
@@ -65,7 +65,7 @@
                         <p>Lorem ipsum street no.14 Block A</p>
                     </div>
                 </div>
-                <div class="ml-80 bg-[#1e1e1e] mt-10 text-white font-roboto p-10 rounded-xl w-[500px]">
+                <div class="ml-80 bg-[#1e1e1e] mt-10 text-white font-roboto p-10 rounded-xl w-[450px]">
                     <p class="text-xl pb-4">Branch Office</p>
                     <div class="flex items-center gap-x-10 pb-6">
                         <div class="flex items-center gap-x-4">
@@ -87,7 +87,7 @@
                 <figure>
                     <iframe 
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106170.04919649201!2d-118.35361081048336!3d33.73962453169056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd35ae16ed8aa5%3A0x4147d57f086875f!2sSan%20Pedro%2C%20Los%20Angeles%2C%20CA%2C%20USA!5e0!3m2!1sen!2s!4v1674055693615!5m2!1sen!2s"
-                        width="800" height="700" style="border:0; border-radius: 0.5rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+                        width="700" height="600" style="border:0; border-radius: 0.5rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                     </iframe>
                 </figure>
             </div>
