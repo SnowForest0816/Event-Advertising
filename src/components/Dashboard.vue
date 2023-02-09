@@ -1,17 +1,17 @@
 <template>
     <div>
-        <div class="bg-[#303030] flex justify-between">
+        <div class="bg-[#303030] flex justify-center gap-x-44">
             <div class="text-white pt-44 pl-44 mr-[-320px] font-roboto z-10">
                 <p class="text-4xl font-bold py-12">Create Business Solution</p>
                 <p class="text-2xl font-bold">We work with internatinoal startups, help <br/> enterpreneurs launch for the long term.</p>
-                <button class="mt-12 flex justify-center items-center gap-x-2 px-8 py-2 border-x-2 border-[#00bcd4] rounded-lg">
+                <button class="mt-12 flex justify-center items-center gap-x-2 px-8 py-2 border-2 border-[#00bcd4] rounded-lg">
                     <p class="font-roboto text-lg text-[#00bcd4]">WRITE TO US</p>
                     <img src="https://img.icons8.com/arcade/1x/filled-sent.png" alt="" width="30px" />
                 </button>
             </div>
             <img src="../assets/img/1.png" alt="" />
         </div>
-        <div class="mt-[-150px] pt-10 py-24 flex bg-[#303030]">
+        <div class="bg-[#303030] mt-[-150px] pt-10 py-24 flex justify-center">
             <img src="../assets/img/2.png" alt="" />
             <div class="flex flex-col justify-center items-center font-roboto px-16">
                 <p class="text-3xl font-[550] text-white">Through our large capacity we dare to say we<br/> are different.</p>
@@ -35,12 +35,92 @@
                 <p class="pt-0 px-10 text-3xl text-slate-400 italic pt-10 border-l-4 border-black">It leaves a taste that's bittersweet That's called the <br/> blues</p>
             </div>
         </div>
-        <!-- <div class="bg-[#303030] h-36">
-            <div class="bg-[] rounded-xl w-12 h-12">
-                Hewllo
+        <div class="bg-[#303030] flex justify-center items-center gap-x-16 pb-36">
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/architect.png" alt="" />
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/cloud.png" alt="" />
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/coin.png" alt="" />
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/mobile.png" alt="" />
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/profile.png" alt="" />
+            <img class="w-16 h-16 brightness-150 contrast-50 grayscale" src="https://veluxi.vercel.app/images/logos/saas.png" alt="" />
+        </div>
+        <div class="bg-[#303030] flex justify-center gap-x-14">
+            <div class="flex flex-col items-start font-roboto text-white">
+                <h1 class="text-4xl font-bold pb-16">Case Studies</h1>
+                <button class="text-xl py-4">Coporate</button>
+                <button class="text-xl py-4">Advertising</button>
+                <button class="text-xl py-4">Marketing</button>
+                <button class="text-xl py-4">Government</button>
+                <button class="text-xl py-4">Creative</button>
             </div>
-        </div> -->
-        <div class="pb-32 flex gap-x-4 justify-center items-end bg-[#303030]">
+            <div class="flex justify-center items-start gap-x-8">
+                <div class="flex flex-col gap-y-6">
+                    <div class="w-52">
+                        <img class="border rounded-xl" src="https://res.cloudinary.com/imajin/image/upload/v1583497237/agency/case1_lvxzy3.jpg" alt="" />
+                        <div class="flex flex-col justify-center items-center font-roboto text-white mt-[-220px] pb-2">
+                            <div class="w-12 h-12 bg-white border rounded-xl rotate-45 relative z-[10]"></div>
+                            <img class="w-8 h-8 mt-[-40px] ml-[4px] z-20 relative" src="https://veluxi.vercel.app/images/logos/mobile.png" alt="" />
+                            <p class="py-8 w-44 text-xl text-center">Donec commodo convallis ligula</p>
+                            <p class="text-center w-36">Vestibulum consequat hendreit</p>
+                        </div>
+                    </div>
+                    <div class="w-52 bg-[#ACECF6] rounded-xl flex justify-center items-center">
+                        <img src="https://veluxi.vercel.app/images/logos/coin.png" alt="" />
+                    </div>
+                </div>
+                <div class="flex flex-col gap-y-[47px]">
+                    <div class="w-[280px] py-2 bg-[#ACECF6] rounded-xl flex justify-center items-center">
+                        <img src="https://veluxi.vercel.app/images/logos/starter.png" alt="" />
+                    </div>
+                    <div class="w-[280px] bg-[rgba(48,48,48,0.5)]">
+                        <img class="border rounded-xl opacity-30" src="https://res.cloudinary.com/imajin/image/upload/v1583497238/agency/case2_ho086n.jpg" alt="" />
+                        <div class="flex justify-center items-center font-roboto text-white mt-[-70px] pb-2">
+                            <div class="w-12 h-12 bg-white border rounded-xl rotate-45 relative z-[10]"></div>
+                            <img class="w-8 h-8 ml-[-38px] z-20 relative" src="https://veluxi.vercel.app/images/logos/profile.png" alt="" />
+                            <p class="w-44 text-xl pl-[20px]">Donec commodo convallis ligula</p>
+                        </div>
+                    </div>
+                    <div class="w-[280px] bg-[rgba(48,48,48,0.5)]">
+                        <img class="border rounded-xl opacity-30" src="https://res.cloudinary.com/imajin/image/upload/v1583497237/agency/case3_nbderf.jpg" alt="" />
+                        <div class="flex justify-center items-center font-roboto text-white mt-[-70px] pb-2">
+                            <div class="w-12 h-12 bg-white border rounded-xl rotate-45 relative z-[10]"></div>
+                            <img class="w-8 h-8 ml-[-38px] z-20 relative" src="https://veluxi.vercel.app/images/logos/architect.png" alt="" />
+                            <p class="w-44 text-xl pl-[20px]">Donec commodo convallis ligula</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col gap-y-8">
+                    <div class="w-[380px] bg-[rgba(48,48,48,0.5)]">
+                        <img class="border rounded-xl opacity-30" src="https://res.cloudinary.com/imajin/image/upload/v1583499089/agency/case4_vjkowh.jpg" alt="" />
+                        <div class="flex pl-10 items-center font-roboto text-white mt-[-70px] pb-2">
+                            <div class="w-12 h-12 bg-white border rounded-xl rotate-45 relative z-[10]"></div>
+                            <img class="w-8 h-8 ml-[-38px] z-20 relative" src="https://veluxi.vercel.app/images/logos/fashion.png" alt="" />
+                            <p class="w-44 text-xl pl-[20px]">Donec commodo convallis ligula</p>
+                        </div>
+                    </div>
+                    <div class="w-[380px] bg-[rgba(48,48,48,0.5)]">
+                        <img class="border rounded-xl opacity-30" src="https://res.cloudinary.com/imajin/image/upload/v1583497239/agency/case5_r343kh.jpg" alt="" />
+                        <div class="flex pl-10 items-center font-roboto text-white mt-[-70px] pb-2">
+                            <div class="w-12 h-12 bg-white border rounded-xl rotate-45 relative z-[10]"></div>
+                            <img class="w-8 h-8 ml-[-38px] z-20 relative" src="https://veluxi.vercel.app/images/logos/cloud.png" alt="" />
+                            <p class="w-44 text-xl pl-[20px]">Donec commodo convallis ligula</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bg-[#303030] h-96 flex justify-center items-center">
+            <div class="flex justify-between py-10 px-20 border-[#00bcd4] border-2 rounded-lg w-[70vw] h-44 font-roboto text-white">
+                <div class="flex flex-col justify-center">
+                    <h1 class="font-bold text-5xl py-2">Ready to get started?</h1>
+                    <p class="text-3xl py-2">Best Tech team are not instant born, they’re made...</p>
+                </div>
+                <button class="flex justify-center items-center gap-x-4 border-[#00bcd4] border-2 rounded-xl px-10 py-0">
+                    <p class="py-0">CONTACT US</p>
+                    <img class="py-0" src="https://img.icons8.com/arcade/1x/filled-sent.png" alt="" width="30px" />
+                </button>
+            </div>
+        </div>
+        <div class="bg-[#303030] py-32 flex gap-x-4 justify-center items-end">
             <div class="flex flex-col items-center">
                 <div class="px-60 flex items-center">
                     <p class="text-white text-5xl leading-[60px] pl-44 font-bold font-roboto z-50 relative">Our <br/> Office</p>
